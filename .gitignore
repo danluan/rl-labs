@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+mat/Book-Mathematical-Foundation-of-Reinforcement-Learning.pdf
+mat/RLbook2020.pdf
